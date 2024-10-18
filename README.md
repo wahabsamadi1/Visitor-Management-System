@@ -18,7 +18,7 @@ CheckOutTime
 
 ### How to Use
 1. Clone the repository:  
-   git clone https://github.com/your-username/Visitor-Management-System.git
+   git clone https://github.com/wahabsamadi1/Visitor-Management-System.git
    cd Visitor-Management-System    
 2. Compile the C++ code:
    g++ -o visitor_management main.cpp  
